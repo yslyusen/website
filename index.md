@@ -8,7 +8,7 @@ I am currently working on providing operating system support on near-memory acce
 
 
 ### People I am grateful for
-Professor Michael Swift - the one who leads me into the world of systems and Linux device drivers.
+Professor [Michael Swift](https://pages.cs.wisc.edu/~swift/) - the one who leads me into the world of systems and Linux device drivers.
 
-Professor Shauna Crowther - the best ESL 118 professor that guides me throughout the semester in Spring 2021.
+Professor [Shauna Crowther](https://esl.wisc.edu/staff/crowther-shuana/) - the best ESL 118 professor that guides me throughout the semester in Spring 2021.
 
