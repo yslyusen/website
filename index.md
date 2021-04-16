@@ -6,7 +6,9 @@ I am currently working on providing operating system support on near-memory acce
 
 ## Contact Information
 liu797@wisc.edu
+
 yusen@cs.wisc.edu
+
 yusen.liu@wisc.edu
 
 
