@@ -4,7 +4,7 @@ I am an undergraduate at the University of Wisconsin-Madison, majoring in Comput
 
 I am currently working on providing operating system support on near-memory accelerators advised by Professor [Michael Swift](https://pages.cs.wisc.edu/~swift/).
 
-My CV can be accessed [here](https://drive.google.com/file/d/1nKqCgzHfNdsE1prmNGG-FuljY3IMjgP7/view?usp=sharing), nothing distinguished, but I firmly believe hardwork will pay off someday.
+My CV can be accessed [here](https://drive.google.com/file/d/1nKqCgzHfNdsE1prmNGG-FuljY3IMjgP7/view?usp=sharing). Nothing distinguished, but I firmly believe hardwork will pay off someday.
 
 ### Research Interest
 
