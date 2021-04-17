@@ -4,6 +4,7 @@ I am an undergraduate at the University of Wisconsin-Madison, majoring in Comput
 
 I am currently working on providing operating system support on near-memory accelerators advised by Professor [Michael Swift](https://pages.cs.wisc.edu/~swift/).
 
+My CV can be accessed [here](https://drive.google.com/file/d/1nKqCgzHfNdsE1prmNGG-FuljY3IMjgP7/view?usp=sharing).
 ### Research Interest
 
 I am interested in systems research with an emphasis on Operating Systems and Hardware-software Co-design. 
